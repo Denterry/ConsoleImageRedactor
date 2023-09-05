@@ -14,7 +14,7 @@ When running without arguments, the program outputs help.
 Example
 This is our example image:
 
-lenna.bmp
+lenna
 
 Let us apply these filters:
 
